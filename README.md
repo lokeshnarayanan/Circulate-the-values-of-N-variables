@@ -31,7 +31,8 @@ def circulate():
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119393019/225551173-99ecda67-ed8c-4669-8eb9-1fb58a1e5d69.png)
+![image](https://user-images.githubusercontent.com/119393019/225827852-801027c9-725a-4d33-a38d-7aa98f55e5f6.png)
+
 
 ## Result:
 Thus the circulate-the -values-of-N-variables are sucessfully excuted.
